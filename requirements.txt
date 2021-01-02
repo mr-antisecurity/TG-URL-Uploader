@@ -8,4 +8,4 @@ https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
 requests
 tgcrypto
 #youtube-dl
-git+https://github.com/mr-antisecurity/ytdl201911.git
+git+https://github.com/mr-antisecurity/ytdl201911/youtube-dl
